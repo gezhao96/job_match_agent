@@ -1,6 +1,4 @@
-# Job Match Agent 
-
-一个可运行的 LangChain 项目初版：
+# Job Match Agent
 
 - 自然语言输入招聘网址 + 求职偏好
 - 自动抓取招聘网站列表页或详情页

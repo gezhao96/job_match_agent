@@ -1,4 +1,4 @@
-# Job Match Agent (LangChain 初版)
+# Job Match Agent 
 
 一个可运行的 LangChain 项目初版：
 
@@ -38,11 +38,11 @@ python app.py
 
 ```text
 请帮我分析这个招聘网站里适合我的岗位：
-https://job.hust.edu.cn/zpxx123123/index.htm
+https://jobxxxxx/index.htm
 
-我的求职方向是光纤传感、光电信息、AI算法、智能感知；
+我的求职方向是XXX、XXX、AI算法、大模型；
 希望工作地在上海、深圳、杭州、武汉；
-学历是博士；
+学历是硕士/博士；
 优先考虑高校、研究院或技术研发类岗位；
 不考虑销售、行政和纯运维类岗位。
 ```

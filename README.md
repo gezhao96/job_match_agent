@@ -1,4 +1,4 @@
-# Job Match Agent
+# Job Match Agent - Demo
 
 - 自然语言输入招聘网址 + 求职偏好
 - 自动抓取招聘网站列表页或详情页
@@ -63,7 +63,6 @@ python app.py --input-file sample_input.txt --max-jobs 12 --max-pages 3
 ## 4. 运行结构图
 
 这个项目当前的运行方式是一个由 `app.py` 统一编排的串行流水线，而不是多 Agent 并发协作。整体结构如下：
-
 
 如果希望用更接近 Agent 编排的视角去理解，这个项目目前可以抽象成下面这张“类 Agent 视图图”。注意这是一种职责映射，不代表当前代码已经实现了真正的多 Agent 自主协作：
 

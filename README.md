@@ -1,4 +1,4 @@
-# Job Match Agent - Multi-Agent
+# Job Match Agent - Demo
 
 - 自然语言输入招聘网址 + 求职偏好
 - Supervisor 负责任务路由与重试
